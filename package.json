@@ -19,6 +19,7 @@
     "should": "^7.1.0"
   },
   "devDependencies": {
+    "done": "0.0.1",
     "mocha": "^2.2.5"
   }
 }
